@@ -22,3 +22,18 @@ Counting Carnival is a fun and educational web application designed for children
    ```bash
    git clone https://github.com/yourusername/counting_carnival.git
 
+2.  Navigate to the project directory:
+
+  ```bash
+    cd counting_carnival
+
+3. Install backend dependencies:
+
+   ```bash
+   npm install
+
+4. Start the server:
+
+    ```bash
+    node server/server.js
+
